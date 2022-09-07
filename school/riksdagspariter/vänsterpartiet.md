@@ -19,3 +19,5 @@ Förkortning: V
 - Solidaritet
 - Jämlikhet
 - Gemenskap
+
+### [Gå Tillbaka](index)
