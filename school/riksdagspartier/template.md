@@ -9,7 +9,7 @@ Sedan:
 ## Symboler
 Blomma: 
 
-Förkortning: S
+Förkortning: 
 
 ## Ideologi
 - 
