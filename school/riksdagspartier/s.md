@@ -1,5 +1,5 @@
 # Socialdemokraterna
-![Socialdemokraternas Logga](img/socialdemokraterna_logotyp_staende_positiv_RGB.png)
+<img src="img/socialdemokraterna_logotyp_staende_positiv_RGB.png" width="130" height="130">
 
 ## Partiledare
 Namn: [Magdalena Andersson](https://sv.wikipedia.org/wiki/Magdalena_Andersson)
