@@ -14,7 +14,7 @@ Förkortning: MP
 ## Ideologi
 - [Grön ideologi](https://sv.wikipedia.org/wiki/Gr%C3%B6n_ideologi)
 - [Ekologism](https://sv.wikipedia.org/wiki/Ekologism)
-- [Femenism](https://sv.wikipedia.org/wiki/Feminism)
+- [Feminism](https://sv.wikipedia.org/wiki/Feminism)
 
 ## Värdeord
 - Framtiden
