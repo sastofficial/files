@@ -4,3 +4,4 @@
 [<img src="img/socialdemokraterna_logotyp_staende_positiv_RGB.png" width="64" height="64">](s)
 [<img src="img/MP_logo_centrerad_vit_RGB.png" width="64" height="64">](mp)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/C_v1.svg" width="64" height="64">](c)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/L_v1.svg" width="64" height="64">](l)
