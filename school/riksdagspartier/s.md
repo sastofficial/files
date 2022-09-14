@@ -1,6 +1,7 @@
 # Socialdemokraterna
 <img src="img/socialdemokraterna_logotyp_staende_positiv_RGB.png" width="130" height="130">
 
+Grundades: 23 april 1889
 ## Partiledare
 Namn: [Magdalena Andersson](https://sv.wikipedia.org/wiki/Magdalena_Andersson)
 
