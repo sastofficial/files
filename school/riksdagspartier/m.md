@@ -1,6 +1,7 @@
 # Moderaterna
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/M_v1.svg" width="130" height="130">
 
+Grundades: 17 oktober 1904
 ## Partiledare
 Namn: [Ulf Kristersson](https://sv.wikipedia.org/wiki/Ulf_Kristersson)
 
