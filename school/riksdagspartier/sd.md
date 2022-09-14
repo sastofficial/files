@@ -1,6 +1,7 @@
-# Parti Namn
+# Svergiedemokrater
 <img src="https://sd.se/wp-content/uploads/2022/07/logo_sd_logo_blasippa-450x480.png" width="130" height="130">
 
+Grundades: 6 februari 1988
 ## Partiledare
 Namn: [Jimmie Åkerson](https://sv.wikipedia.org/wiki/Jimmie_%C3%85kesson)
 
