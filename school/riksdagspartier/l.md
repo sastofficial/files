@@ -1,6 +1,7 @@
 # Liberalerna
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/L_v1.svg" width="130" height="130">
 
+Grundades: 5 augusti 1934
 ## Partiledare
 Namn: [Johan Persson](https://sv.wikipedia.org/wiki/Johan_Pehrson)
 
