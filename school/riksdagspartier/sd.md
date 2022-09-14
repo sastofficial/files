@@ -1,4 +1,4 @@
-# Svergiedemokrater
+# Svergiedemokratera
 <img src="https://sd.se/wp-content/uploads/2022/07/logo_sd_logo_blasippa-450x480.png" width="130" height="130">
 
 Grundades: 6 februari 1988
