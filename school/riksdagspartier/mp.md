@@ -1,6 +1,7 @@
 # Miljöpartiet
 <img src="img/MP_logo_centrerad_vit_RGB.png" width="130" height="130">
 
+Grundades: 20 september 1981
 ## Språkrör
 Namn: [Märta Stenevi](https://sv.wikipedia.org/wiki/M%C3%A4rta_Stenevi) och [Pär Bolund](https://sv.wikipedia.org/wiki/Per_Bolund)
 
