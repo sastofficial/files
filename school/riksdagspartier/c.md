@@ -1,6 +1,7 @@
 # Centerpartiet
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/C_v1.svg" width="130" height="130">
 
+Grundades: 2 mars 1913
 ## Partiledare
 Namn: [Annie Lööf](https://sv.wikipedia.org/wiki/Annie_L%C3%B6%C3%B6f)
 
