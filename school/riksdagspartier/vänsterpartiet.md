@@ -1,7 +1,7 @@
 # Vänsterpartiet
 ![Vänsterpartiets Logga](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/V%C3%A4nsterpartiet_logo.svg/130px-V%C3%A4nsterpartiet_logo.svg.png)
 
-Grundades: 1917
+Grundades: 13 maj 1917
 ## Partiledare
 Namn: [Nooshi Dadgostar](https://sv.wikipedia.org/wiki/Nooshi_Dadgostar)
 
