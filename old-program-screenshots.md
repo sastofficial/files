@@ -8,7 +8,7 @@
 - [Get Lucky player page on Windows 8 in 2013](https://i.imgur.com/XJpjVm3.jpeg)
 
 ### Shazam
-- Get Lucky page on iPhone in 2013 [Part 1](https://i.imgur.com/XVQUMaN.jpeg) [Part 2](https://i.imgur.com/PDVtWFg_d.webp?maxwidth=760&fidelity=grand)
+- Get Lucky page on iPhone in 2013 [Part 1](https://i.imgur.com/XVQUMaN.jpeg), [Part 2](https://i.imgur.com/PDVtWFg_d.webp?maxwidth=760&fidelity=grand)
 
 ### Youtube
 - [Video Player in 2013](https://i.imgur.com/F2TxAg9.jpeg)
