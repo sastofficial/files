@@ -17,3 +17,4 @@ Rätten att vara i naturen utan att störa och förstöra.
 Ämnet som gör löv gröna och samlar in solenergi.
 ## Nedbrytare
 En organism som äter och bryten ner andra organismer.
+# Näringskedja
