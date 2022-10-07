@@ -29,3 +29,4 @@ Efter det går energin tillbaka till en växt via jorden.
 Jag har redan skrivit en text om detta. [Klicka här för att läsa den texten](../växthuseffekten)
 ## Hur minskar man växthuseffekten?
 För att minska växthuseffekten måste man använda mindre växthusgaser t.ex Metan, Vattenånga & Koldioxid.
+T.ex åk mindre bil/flygplan, 
