@@ -24,3 +24,8 @@ Sen äts den varelsen av en annan varelse t.ex en mus. Och den äts av en annan 
 Och till slut så går energi i en [nedbrytare](#nedbrytare) t.ex en svamp eller en bakterie.
 Efter det går energin tillbaka till en växt via jorden.
 ![](assets/Biologi-Tr%C3%A4ning/n%C3%A4ringskedja.jpg)
+# Växthuseffekten
+## Vad är växthuseffekten?
+Jag har redan skrivit en text om detta. [Klicka här för att läsa den texten](../växthuseffekten)
+## Hur minskar man växthuseffekten?
+För att minska växthuseffekten måste man använda mindre växthusgaser t.ex Metan, Vattenånga & Koldioxid.
