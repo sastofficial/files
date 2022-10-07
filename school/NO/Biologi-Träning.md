@@ -18,3 +18,8 @@ Rätten att vara i naturen utan att störa och förstöra.
 ## Nedbrytare
 En organism som äter och bryten ner andra organismer.
 # Näringskedja
+En närings kedja är en kedja där energi går igenom olika organismer.                                    
+Det börjar som sol energi som kommer till en växt t.ex gräs. Sen äts växten av en varelse t.ex en gräshoppa.     
+Sen äts den varelsen av en annan varelse t.ex en mus. Och den äts av en annan varelse t.ex orm eller örn.      
+Och till slut så går energi i en [nedbrytare](#nedbrytare) t.ex en svamp eller en bakterie.
+![](assets/Biologi-Tr%C3%A4ning/n%C3%A4ringskedja.jpg)
