@@ -35,3 +35,6 @@ T.ex åk mindre bil/flygplan
 När man skövlar (sågar ner) träd i ett ekosystem t.ex en skog så på verkas många saker.             
 Djur förlorar sitt hem, mindre mat och andra saker
 # Varför löven ändrar färg på hösten
+[Klorofyllet](#klorofyll) går tillbaka in it trädet föt att återanvända det.
+# Varför löver ramlar av träden
+Vattnet fryser så att löven torkar och sen ramlar av.
