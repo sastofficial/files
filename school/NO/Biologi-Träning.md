@@ -26,7 +26,10 @@ Efter det går energin tillbaka till en växt via jorden.
 ![](assets/Biologi-Tr%C3%A4ning/n%C3%A4ringskedja.jpg)
 # Växthuseffekten
 ## Vad är växthuseffekten?
-Jag har redan skrivit en text om detta. [Klicka här för att läsa den texten](../växthuseffekten)
+Jag har redan skrivit en text om detta. [Klicka här för att läsa den texten](../Växthuseffekten)
 ## Hur minskar man växthuseffekten?
 För att minska växthuseffekten måste man använda mindre växthusgaser t.ex Metan, Vattenånga & Koldioxid.
-T.ex åk mindre bil/flygplan, 
+T.ex åk mindre bil/flygplan
+# Hur ett ekosystem påverkas av skövling
+När man skövlar (sågar ner) träd i ett ekosystem t.ex en skog så på verkas många saker.             
+Djur förlorar sitt hem, mindre mat och andra saker
