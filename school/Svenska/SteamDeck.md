@@ -13,4 +13,7 @@ Jag köpte den andra versionen.
 Man kan ha flera konton inloggade samtidigt på den och den har Steam's familjdelning som göt så att man kan låna ett spel från en annan användare så länge dem inte spelar något vid det tillfället.                    
 Man kan ladda ner spel från andra ställen än steam om man är i desktop mode men icke steam spel fungerar inte men familjdelning.
 
-Steam är inte bara en spelaffär. Steam har också chat, forum, grupper, en serverletare för spel (serverletaren funkar bara i desktop mode), m.m
+Steam är inte bara en spelaffär. Steam har också chat, forum, grupper, en serverletare för spel (serverletaren funkar bara i desktop mode), m.m.
+
+Steam brukar ha rea på sommaren, vintern, hösten och kinesiska nyåret. De reorna brukar vara väldigt stora.      
+Ett exempel på en rea är Valve Complete Pack under höstrean 2022 som gick från 60,23€ till 6€ (96%) under rean.
