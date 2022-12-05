@@ -10,3 +10,7 @@ Den andra kostar 549€ och kommer med ett SSD med 256 GB, snabbare lagring och 
 Den tredje kostar 679€ och kommer med ett SSD med 512 GB, annu snabbare lagring, anti-reflekterande högkvalitativt etsat glas, bärfodral med färglagd logga, exklusivt virtuellt tangentbordstema och andra profilbilder, banners, m.m för din steam profil.                                        
 Jag köpte den andra versionen.
 
+Man kan ha flera konton inloggade samtidigt på den och den har Steam's familjdelning som göt så att man kan låna ett spel från en annan användare så länge dem inte spelar något vid det tillfället.                    
+Man kan ladda ner spel från andra ställen än steam om man är i desktop mode men icke steam spel fungerar inte men familjdelning.
+
+Steam är inte bara en spelaffär. Steam har också chat, forum, grupper, en serverletare för spel (serverletaren funkar bara i desktop mode), m.m
