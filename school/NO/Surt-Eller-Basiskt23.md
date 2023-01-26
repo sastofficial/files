@@ -2,7 +2,7 @@
 ## Syfte
 Det här testet var för att kolla om ett ämne är surt eller basiskt.
 ## Material
-### Indicator
+### Indikator
 - BTB
 ### Ämnen
  - Ajax Fönsterputs
@@ -13,3 +13,5 @@ Det här testet var för att kolla om ett ämne är surt eller basiskt.
  - Bikarbonat
  - Salt
  - Sköljmedel
+## Hypotes
+Jag tror att den som är mest basiskt är sköljmedlet och den som är mest sur är citronjuicen.
