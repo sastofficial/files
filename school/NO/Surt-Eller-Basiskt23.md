@@ -51,3 +51,7 @@ Bubbelvattnet blev gult (ca 3 pH)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9w1xBiWr8Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Saltet blev blått (ca 9,9755 pH)
+## Slutsats
+Jag kom fram till att [ketchupen](#ketchup) var mest sur och [fönsterputsen](#ajax-fönsterputs) var mest basisk.
+## Reflektion
+Jag tror att resultaten är lite fel (specielt [ketchupen](#ketchup)) för jag råkade ta för mycket [BTB](#indikator) ibland.
