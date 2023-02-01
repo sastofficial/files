@@ -30,3 +30,24 @@ Sköljmedelet blev gult (ca 3 pH)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGHyOuF0qTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fönsterputset blev blått (ca 14 pH)
+### Senap
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LwUD-hHsvNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Senapen blev gult (ca 3 pH)
+### Ketchup
+<iframe width="560" height="315" src="https://www.youtube.com/embed/608jUB_y7RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Ketchupen blev röd (ca 0 pH)
+Jag tror detta är väldigt fel.
+### Citron Juice
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x97_kLUP22E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Citron Juicen blev gul (ca 3 pH)
+### Bubbelvatten
+(länk)
+
+Bubbelvattnet blev gult (ca 3 pH)
+### Salt
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9w1xBiWr8Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Saltet blev blått (ca 9,9755 pH)
