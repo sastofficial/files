@@ -18,7 +18,7 @@ Jag tror att den som är mest basiskt är sköljmedlet och den som är mest sur 
 ## Genomförande
 Blanda ett ämne med vatten och häll 3 droppar [BTB](#indikator) i det.
 ## Resultat
-### Bikarbonat
+### ![Bikarbonat](assets/SurBas23/bikarbonat.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SmgqnRbqB4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Bikarbonatet blev blått (ca 12 pH)
