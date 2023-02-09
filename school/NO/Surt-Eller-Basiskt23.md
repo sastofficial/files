@@ -56,3 +56,5 @@ Jag kom fram till att [ketchupen](#ketchup) var mest sur och [fönsterputsen](#a
 ## Reflektion
 Jag tror att resultaten är lite fel (specielt [ketchupen](#ketchup)) för jag råkade ta för mycket [BTB](#indikator) ibland.
 ## Extra
+- [Instruktioner](assets/SurBas23/instruktioner%20labb%202023.pdf)
+- [Anteckningar](assets/SurBas23/anteckningar%20labb%202023.pdf)
