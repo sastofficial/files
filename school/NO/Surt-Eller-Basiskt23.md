@@ -52,9 +52,9 @@ Bubbelvattnet blev gult (ca 3 pH)
 
 Saltet blev blått (ca 9,9755 pH)
 ## Slutsats
-Jag kom fram till att [ketchupen](#ketchup) var mest sur och [fönsterputsen](#ajax-fönsterputs) var mest basisk.
+Jag kom fram till att ketchupen var mest sur och fönsterputsen var mest basisk.
 ## Reflektion
-Jag tror att resultaten är lite fel (specielt [ketchupen](#ketchup)) för jag råkade ta för mycket [BTB](#indikator) ibland.
+Jag tror att resultaten är lite fel specielt [ketchupen för jag råkade ta för mycket [BTB](#indikator) ibland.
 ## Extra
 - [Instruktioner](assets/SurBas23/instruktioner%20labb%202023.pdf)
 - [Anteckningar](assets/SurBas23/anteckningar%20labb%202023.pdf)
