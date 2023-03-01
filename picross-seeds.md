@@ -1,4 +1,7 @@
 # Good picross seeds
+## Website
+http://liouh.com/picross2/
+## Seeds
 1677575069838
 
 1677575220379
@@ -10,3 +13,5 @@
 1677659731169
 
 1677659870257
+
+1677660017051
