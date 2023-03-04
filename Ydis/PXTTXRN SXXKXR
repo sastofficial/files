@@ -1,0 +1,1754 @@
+{
+  "Version": 3,
+  "Sessions": [
+    {
+      "Level": {
+        "ID": 81391957,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "PXTTXRN SXXKXR",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-03-04T10:21:04.0886968+01:00",
+      "Duration": "00:05:04.3956375",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 1.53877425
+        },
+        {
+          "Number": 2,
+          "EndPercent": 4.651363
+        },
+        {
+          "Number": 3,
+          "EndPercent": 16.9509563
+        },
+        {
+          "Number": 4,
+          "EndPercent": 21.6409473
+        },
+        {
+          "Number": 5,
+          "EndPercent": 14.5047989
+        },
+        {
+          "Number": 6,
+          "EndPercent": 27.501152
+        },
+        {
+          "Number": 7,
+          "EndPercent": 21.6409473
+        },
+        {
+          "Number": 8,
+          "EndPercent": 50.2304878
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 81391957,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "PXTTXRN SXXKXR",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-03-04T10:33:13.0535365+01:00",
+      "Duration": "00:02:38.9033854",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 30.3629017
+        },
+        {
+          "Number": 2,
+          "EndPercent": 8.371409
+        },
+        {
+          "Number": 3,
+          "EndPercent": 14.504796
+        },
+        {
+          "Number": 4,
+          "EndPercent": 1.20139825
+        },
+        {
+          "Number": 5,
+          "EndPercent": 1.20139825
+        },
+        {
+          "Number": 6,
+          "EndPercent": 7.27542353
+        },
+        {
+          "Number": 7,
+          "EndPercent": 20.2702217
+        },
+        {
+          "Number": 8,
+          "EndPercent": 36.7273979
+        },
+        {
+          "Number": 9,
+          "EndPercent": 0.446585655
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:36:34.3487069+01:00",
+      "Duration": "00:00:14.7620012",
+      "StartPercent": 31.6657314,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 35.381752
+        },
+        {
+          "Number": 2,
+          "EndPercent": 36.7251358
+        },
+        {
+          "Number": 3,
+          "EndPercent": 32.29216
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:37:07.209733+01:00",
+      "Duration": "00:02:44.4993924",
+      "StartPercent": 31.5984287,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 35.3818932
+        },
+        {
+          "Number": 2,
+          "EndPercent": 36.7289238
+        },
+        {
+          "Number": 3,
+          "EndPercent": 48.17957
+        },
+        {
+          "Number": 4,
+          "EndPercent": 33.9692459
+        },
+        {
+          "Number": 5,
+          "EndPercent": 44.6124039
+        },
+        {
+          "Number": 6,
+          "EndPercent": 43.80492
+        },
+        {
+          "Number": 7,
+          "EndPercent": 36.7289238
+        },
+        {
+          "Number": 8,
+          "EndPercent": 45.1501236
+        },
+        {
+          "Number": 9,
+          "EndPercent": 35.3818932
+        },
+        {
+          "Number": 10,
+          "EndPercent": 33.5992241
+        },
+        {
+          "Number": 11,
+          "EndPercent": 34.1861572
+        },
+        {
+          "Number": 12,
+          "EndPercent": 46.56374
+        },
+        {
+          "Number": 13,
+          "EndPercent": 33.9692459
+        },
+        {
+          "Number": 14,
+          "EndPercent": 36.7289238
+        },
+        {
+          "Number": 15,
+          "EndPercent": 53.1849
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:41:55.4007169+01:00",
+      "Duration": "00:02:45.9592041",
+      "StartPercent": 31.5984287,
+      "Attempts": [
+        {
+          "Number": 37,
+          "EndPercent": 54.0321159
+        },
+        {
+          "Number": 38,
+          "EndPercent": 36.72814
+        },
+        {
+          "Number": 39,
+          "EndPercent": 52.0183258
+        },
+        {
+          "Number": 40,
+          "EndPercent": 35.3818932
+        },
+        {
+          "Number": 41,
+          "EndPercent": 33.9692459
+        },
+        {
+          "Number": 42,
+          "EndPercent": 35.3818932
+        },
+        {
+          "Number": 43,
+          "EndPercent": 52.4940643
+        },
+        {
+          "Number": 44,
+          "EndPercent": 35.3818932
+        },
+        {
+          "Number": 45,
+          "EndPercent": 46.5645943
+        },
+        {
+          "Number": 46,
+          "EndPercent": 33.9692459
+        },
+        {
+          "Number": 47,
+          "EndPercent": 84.11161
+        },
+        {
+          "Number": 48,
+          "EndPercent": 32.1300735
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:45:16.7209083+01:00",
+      "Duration": "00:00:05.8206811",
+      "StartPercent": 75.81604,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 76.2893448
+        },
+        {
+          "Number": 2,
+          "EndPercent": 76.28932
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:45:39.2937625+01:00",
+      "Duration": "00:00:03.8421433",
+      "StartPercent": 76.21986,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 76.98419
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:46:13.8876881+01:00",
+      "Duration": "00:00:03.9300001",
+      "StartPercent": 75.81604,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 76.2893448
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:46:35.2846298+01:00",
+      "Duration": "00:00:06.0409663",
+      "StartPercent": 75.81604,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 76.2893448
+        },
+        {
+          "Number": 2,
+          "EndPercent": 76.2893448
+        },
+        {
+          "Number": 3,
+          "EndPercent": 77.0694962
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:47:23.0984676+01:00",
+      "Duration": "00:00:03.9399911",
+      "StartPercent": 75.81604,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 75.81725
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:49:46.8358407+01:00",
+      "Duration": "00:00:05.3712845",
+      "StartPercent": 65.114975,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 66.48527
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:50:47.0246089+01:00",
+      "Duration": "00:00:13.7723245",
+      "StartPercent": 54.0100937,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 64.4699249
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:51:48.4984247+01:00",
+      "Duration": "00:04:36.1558072",
+      "StartPercent": 75.0084152,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 75.37349
+        },
+        {
+          "Number": 2,
+          "EndPercent": 94.38115
+        },
+        {
+          "Number": 3,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 4,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 5,
+          "EndPercent": 92.04618
+        },
+        {
+          "Number": 6,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 7,
+          "EndPercent": 84.09344
+        },
+        {
+          "Number": 8,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 9,
+          "EndPercent": 87.25412
+        },
+        {
+          "Number": 10,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 11,
+          "EndPercent": 79.14644
+        },
+        {
+          "Number": 12,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 13,
+          "EndPercent": 87.52571
+        },
+        {
+          "Number": 14,
+          "EndPercent": 87.15387
+        },
+        {
+          "Number": 15,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 16,
+          "EndPercent": 79.10819
+        },
+        {
+          "Number": 17,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 18,
+          "EndPercent": 81.37751
+        },
+        {
+          "Number": 19,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 20,
+          "EndPercent": 75.37349
+        },
+        {
+          "Number": 21,
+          "EndPercent": 75.37349
+        },
+        {
+          "Number": 22,
+          "EndPercent": 88.85633
+        },
+        {
+          "Number": 23,
+          "EndPercent": 75.36864
+        },
+        {
+          "Number": 24,
+          "EndPercent": 75.443634
+        },
+        {
+          "Number": 25,
+          "EndPercent": 75.39403
+        },
+        {
+          "Number": 26,
+          "EndPercent": 95.62793
+        },
+        {
+          "Number": 27,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 28,
+          "EndPercent": 75.36864
+        },
+        {
+          "Number": 29,
+          "EndPercent": 92.06627
+        },
+        {
+          "Number": 30,
+          "EndPercent": 75.36865
+        },
+        {
+          "Number": 31,
+          "EndPercent": 75.37349
+        },
+        {
+          "Number": 32,
+          "EndPercent": 100.0
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 81391957,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "PXTTXRN SXXKXR",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-03-04T10:56:54.9345701+01:00",
+      "Duration": "00:21:09.7651792",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 0.09708365
+        },
+        {
+          "Number": 2,
+          "EndPercent": 0.509690166
+        },
+        {
+          "Number": 3,
+          "EndPercent": 19.386179
+        },
+        {
+          "Number": 4,
+          "EndPercent": 19.3861771
+        },
+        {
+          "Number": 5,
+          "EndPercent": 52.4925423
+        },
+        {
+          "Number": 6,
+          "EndPercent": 3.20006752
+        },
+        {
+          "Number": 7,
+          "EndPercent": 6.204922
+        },
+        {
+          "Number": 8,
+          "EndPercent": 46.56489
+        },
+        {
+          "Number": 9,
+          "EndPercent": 0.7378327
+        },
+        {
+          "Number": 10,
+          "EndPercent": 2.10309029
+        },
+        {
+          "Number": 11,
+          "EndPercent": 46.5648956
+        },
+        {
+          "Number": 12,
+          "EndPercent": 8.781647
+        },
+        {
+          "Number": 13,
+          "EndPercent": 1.53877425
+        },
+        {
+          "Number": 14,
+          "EndPercent": 0.6698759
+        },
+        {
+          "Number": 15,
+          "EndPercent": 19.3861771
+        },
+        {
+          "Number": 16,
+          "EndPercent": 35.3822
+        },
+        {
+          "Number": 17,
+          "EndPercent": 36.7273979
+        },
+        {
+          "Number": 18,
+          "EndPercent": 2.10308981
+        },
+        {
+          "Number": 19,
+          "EndPercent": 4.65136242
+        },
+        {
+          "Number": 20,
+          "EndPercent": 21.1597347
+        },
+        {
+          "Number": 21,
+          "EndPercent": 25.7604065
+        },
+        {
+          "Number": 22,
+          "EndPercent": 1.45139635
+        },
+        {
+          "Number": 23,
+          "EndPercent": 4.651364
+        },
+        {
+          "Number": 24,
+          "EndPercent": 1.38343561
+        },
+        {
+          "Number": 25,
+          "EndPercent": 6.55568647
+        },
+        {
+          "Number": 26,
+          "EndPercent": 14.7308207
+        },
+        {
+          "Number": 27,
+          "EndPercent": 46.02537
+        },
+        {
+          "Number": 28,
+          "EndPercent": 65.553894
+        },
+        {
+          "Number": 29,
+          "EndPercent": 2.80448413
+        },
+        {
+          "Number": 30,
+          "EndPercent": 23.0554142
+        },
+        {
+          "Number": 31,
+          "EndPercent": 26.3546276
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T11:18:33.7614171+01:00",
+      "Duration": "00:00:05.5222025",
+      "StartPercent": 54.0773964,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 54.8104019
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T11:20:16.3122848+01:00",
+      "Duration": "00:00:01.9159990",
+      "StartPercent": 54.0100937,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 54.1023369
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 81391957,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "PXTTXRN SXXKXR",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-03-04T11:20:30.8612836+01:00",
+      "Duration": "00:18:57.1440561",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 1.48052227
+        },
+        {
+          "Number": 2,
+          "EndPercent": 1.53877425
+        },
+        {
+          "Number": 3,
+          "EndPercent": 14.7308226
+        },
+        {
+          "Number": 4,
+          "EndPercent": 21.5972
+        },
+        {
+          "Number": 5,
+          "EndPercent": 35.3822021
+        },
+        {
+          "Number": 6,
+          "EndPercent": 0.5388153
+        },
+        {
+          "Number": 7,
+          "EndPercent": 2.10308838
+        },
+        {
+          "Number": 8,
+          "EndPercent": 1.20139825
+        },
+        {
+          "Number": 9,
+          "EndPercent": 4.651364
+        },
+        {
+          "Number": 10,
+          "EndPercent": 3.15638328
+        },
+        {
+          "Number": 11,
+          "EndPercent": 6.95257473
+        },
+        {
+          "Number": 12,
+          "EndPercent": 0.24756369
+        },
+        {
+          "Number": 13,
+          "EndPercent": 6.603023
+        },
+        {
+          "Number": 14,
+          "EndPercent": 6.95257139
+        },
+        {
+          "Number": 15,
+          "EndPercent": 38.107235
+        },
+        {
+          "Number": 16,
+          "EndPercent": 27.4902153
+        },
+        {
+          "Number": 17,
+          "EndPercent": 1.53877425
+        },
+        {
+          "Number": 18,
+          "EndPercent": 27.501152
+        },
+        {
+          "Number": 19,
+          "EndPercent": 3.1563828
+        },
+        {
+          "Number": 20,
+          "EndPercent": 2.48898816
+        },
+        {
+          "Number": 21,
+          "EndPercent": 3.16730547
+        },
+        {
+          "Number": 22,
+          "EndPercent": 64.46937
+        },
+        {
+          "Number": 23,
+          "EndPercent": 64.46936
+        },
+        {
+          "Number": 24,
+          "EndPercent": 94.21367
+        },
+        {
+          "Number": 25,
+          "EndPercent": 26.10309
+        },
+        {
+          "Number": 26,
+          "EndPercent": 11.9711456
+        },
+        {
+          "Number": 27,
+          "EndPercent": 6.947716
+        },
+        {
+          "Number": 28,
+          "EndPercent": 6.906453
+        },
+        {
+          "Number": 29,
+          "EndPercent": 25.7604065
+        },
+        {
+          "Number": 30,
+          "EndPercent": 3.15638328
+        },
+        {
+          "Number": 31,
+          "EndPercent": 47.9101028
+        },
+        {
+          "Number": 32,
+          "EndPercent": 1.20139825
+        },
+        {
+          "Number": 33,
+          "EndPercent": 5.51917076
+        },
+        {
+          "Number": 34,
+          "EndPercent": 14.5047989
+        },
+        {
+          "Number": 35,
+          "EndPercent": 36.7274
+        },
+        {
+          "Number": 36,
+          "EndPercent": 6.93800974
+        },
+        {
+          "Number": 37,
+          "EndPercent": 74.93389
+        },
+        {
+          "Number": 38,
+          "EndPercent": 0.101937845
+        },
+        {
+          "Number": 39,
+          "EndPercent": 48.1798668
+        },
+        {
+          "Number": 40,
+          "EndPercent": 1.3919307
+        },
+        {
+          "Number": 41,
+          "EndPercent": 1.85551941
+        },
+        {
+          "Number": 42,
+          "EndPercent": 6.555687
+        },
+        {
+          "Number": 43,
+          "EndPercent": 100.0
+        }
+      ]
+    }
+  ],
+  "PracticeSessions": [
+    {
+      "Level": {
+        "ID": 81391957,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "PXTTXRN SXXKXR",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-03-04T10:17:11.9036198+01:00",
+      "Duration": "00:03:51.0190779",
+      "Attempts": [
+        {
+          "Number": 2,
+          "StartPercent": 0.0,
+          "EndPercent": 1.53877425
+        },
+        {
+          "Number": 3,
+          "StartPercent": 1.22809708,
+          "EndPercent": 8.781648
+        },
+        {
+          "Number": 4,
+          "StartPercent": 8.422386,
+          "EndPercent": 8.781646
+        },
+        {
+          "Number": 5,
+          "StartPercent": 8.422386,
+          "EndPercent": 8.781646
+        },
+        {
+          "Number": 6,
+          "StartPercent": 7.747558,
+          "EndPercent": 15.8263073
+        },
+        {
+          "Number": 7,
+          "StartPercent": 14.7782145,
+          "EndPercent": 15.1737576
+        },
+        {
+          "Number": 8,
+          "StartPercent": 14.7782145,
+          "EndPercent": 16.9509563
+        },
+        {
+          "Number": 9,
+          "StartPercent": 15.9666615,
+          "EndPercent": 16.2965851
+        },
+        {
+          "Number": 10,
+          "StartPercent": 15.9666615,
+          "EndPercent": 18.4310474
+        },
+        {
+          "Number": 11,
+          "StartPercent": 17.7019386,
+          "EndPercent": 18.848465
+        },
+        {
+          "Number": 12,
+          "StartPercent": 17.7019386,
+          "EndPercent": 18.4310474
+        },
+        {
+          "Number": 13,
+          "StartPercent": 17.7019386,
+          "EndPercent": 18.9213734
+        },
+        {
+          "Number": 14,
+          "StartPercent": 17.7019386,
+          "EndPercent": 36.2571259
+        },
+        {
+          "Number": 15,
+          "StartPercent": 35.89075,
+          "EndPercent": 43.80522
+        },
+        {
+          "Number": 16,
+          "StartPercent": 42.95581,
+          "EndPercent": 43.265686
+        },
+        {
+          "Number": 17,
+          "StartPercent": 42.66417,
+          "EndPercent": 45.1504173
+        },
+        {
+          "Number": 18,
+          "StartPercent": 44.9754333,
+          "EndPercent": 45.15041
+        },
+        {
+          "Number": 19,
+          "StartPercent": 44.3921471,
+          "EndPercent": 44.6126938
+        },
+        {
+          "Number": 20,
+          "StartPercent": 44.100502,
+          "EndPercent": 46.56489
+        },
+        {
+          "Number": 21,
+          "StartPercent": 46.0982628,
+          "EndPercent": 47.3723831
+        },
+        {
+          "Number": 22,
+          "StartPercent": 47.221096,
+          "EndPercent": 47.3723869
+        },
+        {
+          "Number": 23,
+          "StartPercent": 46.92945,
+          "EndPercent": 52.49255
+        },
+        {
+          "Number": 24,
+          "StartPercent": 52.14258,
+          "EndPercent": 52.49255
+        },
+        {
+          "Number": 25,
+          "StartPercent": 52.14258,
+          "EndPercent": 59.7064743
+        },
+        {
+          "Number": 26,
+          "StartPercent": 58.831543,
+          "EndPercent": 63.68741
+        },
+        {
+          "Number": 27,
+          "StartPercent": 62.76144,
+          "EndPercent": 64.0975342
+        },
+        {
+          "Number": 28,
+          "StartPercent": 63.29369,
+          "EndPercent": 64.4693756
+        },
+        {
+          "Number": 29,
+          "StartPercent": 64.2634048,
+          "EndPercent": 66.9866257
+        },
+        {
+          "Number": 30,
+          "StartPercent": 66.69134,
+          "EndPercent": 66.9848
+        },
+        {
+          "Number": 31,
+          "StartPercent": 66.49448,
+          "EndPercent": 66.98299
+        },
+        {
+          "Number": 32,
+          "StartPercent": 66.49448,
+          "EndPercent": 72.54973
+        },
+        {
+          "Number": 33,
+          "StartPercent": 72.21798,
+          "EndPercent": 75.37252
+        },
+        {
+          "Number": 34,
+          "StartPercent": 74.9083939,
+          "EndPercent": 87.24524
+        },
+        {
+          "Number": 35,
+          "StartPercent": 86.5216,
+          "EndPercent": 89.3687439
+        },
+        {
+          "Number": 36,
+          "StartPercent": 88.98596,
+          "EndPercent": 90.57175
+        },
+        {
+          "Number": 37,
+          "StartPercent": 90.35666,
+          "EndPercent": 91.9424438
+        },
+        {
+          "Number": 38,
+          "StartPercent": 91.55237,
+          "EndPercent": 92.47284
+        },
+        {
+          "Number": 39,
+          "StartPercent": 92.17209,
+          "EndPercent": 92.84104
+        },
+        {
+          "Number": 40,
+          "StartPercent": 92.17209,
+          "EndPercent": 94.38129
+        },
+        {
+          "Number": 41,
+          "StartPercent": 94.1990051,
+          "EndPercent": 100.0
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 81391957,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "PXTTXRN SXXKXR",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-03-04T10:26:08.8333335+01:00",
+      "Duration": "00:06:58.4176742",
+      "Attempts": [
+        {
+          "Number": 10,
+          "StartPercent": 0.0,
+          "EndPercent": 1.315475
+        },
+        {
+          "Number": 10,
+          "StartPercent": 0.0,
+          "EndPercent": 27.3717384
+        },
+        {
+          "Number": 11,
+          "StartPercent": 26.0866852,
+          "EndPercent": 26.3546333
+        },
+        {
+          "Number": 12,
+          "StartPercent": 26.0866852,
+          "EndPercent": 31.2522
+        },
+        {
+          "Number": 13,
+          "StartPercent": 26.4804058,
+          "EndPercent": 26.8759537
+        },
+        {
+          "Number": 14,
+          "StartPercent": 26.0866852,
+          "EndPercent": 26.3546314
+        },
+        {
+          "Number": 15,
+          "StartPercent": 26.0866852,
+          "EndPercent": 27.5011539
+        },
+        {
+          "Number": 16,
+          "StartPercent": 26.2252159,
+          "EndPercent": 26.3546333
+        },
+        {
+          "Number": 17,
+          "StartPercent": 26.2252159,
+          "EndPercent": 26.3546314
+        },
+        {
+          "Number": 18,
+          "StartPercent": 26.2908363,
+          "EndPercent": 27.4027271
+        },
+        {
+          "Number": 19,
+          "StartPercent": 26.2908363,
+          "EndPercent": 27.0126534
+        },
+        {
+          "Number": 20,
+          "StartPercent": 26.2908363,
+          "EndPercent": 27.490221
+        },
+        {
+          "Number": 21,
+          "StartPercent": 26.2908363,
+          "EndPercent": 27.3717422
+        },
+        {
+          "Number": 22,
+          "StartPercent": 26.2908363,
+          "EndPercent": 35.3822
+        },
+        {
+          "Number": 23,
+          "StartPercent": 31.4852333,
+          "EndPercent": 36.7274055
+        },
+        {
+          "Number": 24,
+          "StartPercent": 31.4852333,
+          "EndPercent": 35.38219
+        },
+        {
+          "Number": 25,
+          "StartPercent": 31.4852333,
+          "EndPercent": 36.7273979
+        },
+        {
+          "Number": 26,
+          "StartPercent": 31.4852333,
+          "EndPercent": 38.043438
+        },
+        {
+          "Number": 27,
+          "StartPercent": 37.1739769,
+          "EndPercent": 47.3723831
+        },
+        {
+          "Number": 28,
+          "StartPercent": 42.6568756,
+          "EndPercent": 46.02536
+        },
+        {
+          "Number": 29,
+          "StartPercent": 42.6568756,
+          "EndPercent": 45.1504326
+        },
+        {
+          "Number": 30,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127
+        },
+        {
+          "Number": 31,
+          "StartPercent": 42.6568756,
+          "EndPercent": 43.265686
+        },
+        {
+          "Number": 32,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127129
+        },
+        {
+          "Number": 33,
+          "StartPercent": 42.6568756,
+          "EndPercent": 47.3723869
+        },
+        {
+          "Number": 34,
+          "StartPercent": 42.6568756,
+          "EndPercent": 43.8052254
+        },
+        {
+          "Number": 35,
+          "StartPercent": 42.6568756,
+          "EndPercent": 43.26204
+        },
+        {
+          "Number": 36,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127129
+        },
+        {
+          "Number": 37,
+          "StartPercent": 42.6568756,
+          "EndPercent": 45.1504326
+        },
+        {
+          "Number": 38,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127129
+        },
+        {
+          "Number": 39,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127129
+        },
+        {
+          "Number": 40,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127129
+        },
+        {
+          "Number": 41,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.0731735
+        },
+        {
+          "Number": 42,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.6127129
+        },
+        {
+          "Number": 43,
+          "StartPercent": 42.6568756,
+          "EndPercent": 43.265686
+        },
+        {
+          "Number": 44,
+          "StartPercent": 42.6568756,
+          "EndPercent": 44.61089
+        },
+        {
+          "Number": 45,
+          "StartPercent": 42.6568756,
+          "EndPercent": 49.0347557
+        },
+        {
+          "Number": 46,
+          "StartPercent": 48.17623,
+          "EndPercent": 51.9967575
+        },
+        {
+          "Number": 47,
+          "StartPercent": 48.17623,
+          "EndPercent": 57.50639
+        },
+        {
+          "Number": 48,
+          "StartPercent": 53.8905945,
+          "EndPercent": 61.50919
+        },
+        {
+          "Number": 49,
+          "StartPercent": 53.8905945,
+          "EndPercent": 63.6874
+        },
+        {
+          "Number": 50,
+          "StartPercent": 53.8905945,
+          "EndPercent": 64.46937
+        },
+        {
+          "Number": 51,
+          "StartPercent": 53.8905945,
+          "EndPercent": 63.6873856
+        },
+        {
+          "Number": 52,
+          "StartPercent": 53.8905945,
+          "EndPercent": 64.26703
+        },
+        {
+          "Number": 53,
+          "StartPercent": 53.8905945,
+          "EndPercent": 64.2670441
+        },
+        {
+          "Number": 54,
+          "StartPercent": 53.8905945,
+          "EndPercent": 64.46937
+        },
+        {
+          "Number": 55,
+          "StartPercent": 53.8905945,
+          "EndPercent": 65.368
+        },
+        {
+          "Number": 56,
+          "StartPercent": 61.39071,
+          "EndPercent": 61.7151642
+        },
+        {
+          "Number": 57,
+          "StartPercent": 61.39071,
+          "EndPercent": 65.94763
+        },
+        {
+          "Number": 58,
+          "StartPercent": 53.8905945,
+          "EndPercent": 64.46937
+        },
+        {
+          "Number": 59,
+          "StartPercent": 53.8905945,
+          "EndPercent": 55.9898376
+        },
+        {
+          "Number": 60,
+          "StartPercent": 53.8905945,
+          "EndPercent": 63.66188
+        },
+        {
+          "Number": 61,
+          "StartPercent": 62.94371,
+          "EndPercent": 64.46937
+        },
+        {
+          "Number": 62,
+          "StartPercent": 62.94371,
+          "EndPercent": 65.368
+        },
+        {
+          "Number": 63,
+          "StartPercent": 62.94371,
+          "EndPercent": 63.6618843
+        },
+        {
+          "Number": 64,
+          "StartPercent": 62.94371,
+          "EndPercent": 65.368
+        },
+        {
+          "Number": 65,
+          "StartPercent": 62.94371,
+          "EndPercent": 64.2670441
+        },
+        {
+          "Number": 66,
+          "StartPercent": 62.94371,
+          "EndPercent": 65.3424759
+        },
+        {
+          "Number": 67,
+          "StartPercent": 62.94371,
+          "EndPercent": 64.81023
+        },
+        {
+          "Number": 68,
+          "StartPercent": 62.94371,
+          "EndPercent": 63.33014
+        },
+        {
+          "Number": 69,
+          "StartPercent": 53.8905945,
+          "EndPercent": 65.9476242
+        },
+        {
+          "Number": 70,
+          "StartPercent": 64.74459,
+          "EndPercent": 65.36616
+        },
+        {
+          "Number": 71,
+          "StartPercent": 64.74459,
+          "EndPercent": 67.00665
+        },
+        {
+          "Number": 72,
+          "StartPercent": 64.91958,
+          "EndPercent": 72.62626
+        },
+        {
+          "Number": 73,
+          "StartPercent": 64.91958,
+          "EndPercent": 72.62079
+        },
+        {
+          "Number": 74,
+          "StartPercent": 64.91958,
+          "EndPercent": 87.24522
+        },
+        {
+          "Number": 75,
+          "StartPercent": 75.8255539,
+          "EndPercent": 87.19053
+        },
+        {
+          "Number": 76,
+          "StartPercent": 86.84967,
+          "EndPercent": 90.55719
+        },
+        {
+          "Number": 77,
+          "StartPercent": 75.8255539,
+          "EndPercent": 87.3819
+        },
+        {
+          "Number": 78,
+          "StartPercent": 86.361145,
+          "EndPercent": 88.85649
+        },
+        {
+          "Number": 79,
+          "StartPercent": 86.361145,
+          "EndPercent": 92.06095
+        },
+        {
+          "Number": 80,
+          "StartPercent": 86.361145,
+          "EndPercent": 100.0
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 0,
+        "IsOnline": false,
+        "OriginalID": 81391957,
+        "IsOriginal": false,
+        "Name": "PXTTXRN SXXKXR 2",
+        "Revision": 0,
+        "PhysicalLength": 44575.0,
+        "IsCustomMusic": true,
+        "MusicID": 850364,
+        "OfficialMusicID": 0,
+        "MusicOffset": 171.0
+      },
+      "IsCopyRun": true,
+      "StartTime": "2023-03-04T10:39:53.0381008+01:00",
+      "Duration": "00:02:01.0004258",
+      "Attempts": [
+        {
+          "Number": 16,
+          "StartPercent": 31.5984287,
+          "EndPercent": 43.91168
+        },
+        {
+          "Number": 17,
+          "StartPercent": 42.4972076,
+          "EndPercent": 50.6504631
+        },
+        {
+          "Number": 18,
+          "StartPercent": 42.4972076,
+          "EndPercent": 47.91084
+        },
+        {
+          "Number": 19,
+          "StartPercent": 42.4972076,
+          "EndPercent": 43.8041344
+        },
+        {
+          "Number": 20,
+          "StartPercent": 42.4972076,
+          "EndPercent": 44.07391
+        },
+        {
+          "Number": 21,
+          "StartPercent": 42.4972076,
+          "EndPercent": 43.2664223
+        },
+        {
+          "Number": 22,
+          "StartPercent": 42.4972076,
+          "EndPercent": 44.07391
+        },
+        {
+          "Number": 23,
+          "StartPercent": 42.4972076,
+          "EndPercent": 43.26642
+        },
+        {
+          "Number": 24,
+          "StartPercent": 42.4972076,
+          "EndPercent": 44.61162
+        },
+        {
+          "Number": 25,
+          "StartPercent": 42.4972076,
+          "EndPercent": 44.6116257
+        },
+        {
+          "Number": 26,
+          "StartPercent": 42.4972076,
+          "EndPercent": 52.07405
+        },
+        {
+          "Number": 27,
+          "StartPercent": 42.4972076,
+          "EndPercent": 47.9108429
+        },
+        {
+          "Number": 28,
+          "StartPercent": 42.4972076,
+          "EndPercent": 43.26642
+        },
+        {
+          "Number": 29,
+          "StartPercent": 42.4972076,
+          "EndPercent": 46.5638161
+        },
+        {
+          "Number": 30,
+          "StartPercent": 42.4972076,
+          "EndPercent": 43.8041344
+        },
+        {
+          "Number": 31,
+          "StartPercent": 42.4972076,
+          "EndPercent": 49.8211021
+        },
+        {
+          "Number": 32,
+          "StartPercent": 48.3082,
+          "EndPercent": 52.3584
+        },
+        {
+          "Number": 33,
+          "StartPercent": 48.3082,
+          "EndPercent": 52.0667572
+        },
+        {
+          "Number": 34,
+          "StartPercent": 48.3082,
+          "EndPercent": 52.4258423
+        },
+        {
+          "Number": 35,
+          "StartPercent": 48.3082,
+          "EndPercent": 63.68814
+        },
+        {
+          "Number": 36,
+          "StartPercent": 53.92046,
+          "EndPercent": 65.49632
+        },
+        {
+          "Number": 37,
+          "StartPercent": 53.92046,
+          "EndPercent": 54.0321159
+        }
+      ]
+    }
+  ]
+}
