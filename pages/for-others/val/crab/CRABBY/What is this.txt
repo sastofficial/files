@@ -1,0 +1,12 @@
+Each log will start off with
+Shadowhiker (MM/DD/YYYY)
+    HH:MM(AM/PM) EST - Will be applied to indicate the minute and hour in Eastern Standard Time the message was sent from me in the server.
+    HH:MM(AM/PM) EST (Has been edited one or more times for update purposes) - Same as normal, but indicates the message has been edited.
+    HH:MM(AM/PM) EST (Replying to "message") - Same as normal, but indicates which message I replied to with the reply feature.
+    HH:MM(AM/PM) EST (Replying to [00]) - Same as normal, but indicates which image I replied to with the reply feature.
+
+    [00] References an image, which is also bundled in the "img" folder with the Log.
+
+
+
+The MESSAGE LINK and MESSAGE ID will also be attached to EVERY MESSAGE.
