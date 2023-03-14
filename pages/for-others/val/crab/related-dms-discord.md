@@ -18,7 +18,3 @@
 - [15](CRABBY/Channels2/moredm/img/15.png)
 - [16](CRABBY/Channels2/moredm/img/16.png)
 - [17](CRABBY/Channels2/moredm/img/17.png)
-### New stuff
-![](https://i.imgur.com/qyurehC.png) 
-![](https://cdn.discordapp.com/attachments/1052830231213387776/1084062553824559154/IMG_0577.png)
-![](https://cdn.discordapp.com/attachments/1052830231213387776/1084062554030096485/IMG_0580.png)
