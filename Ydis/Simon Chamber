@@ -1,0 +1,2198 @@
+{
+  "Version": 3,
+  "Sessions": [
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:19:10.3296038+02:00",
+      "Duration": "00:00:19.5657843",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 2,
+          "EndPercent": 54.8434067
+        },
+        {
+          "Number": 3,
+          "EndPercent": 1.09671164
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:21:37.7290411+02:00",
+      "Duration": "00:07:23.8324542",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 48,
+          "EndPercent": 58.09679
+        },
+        {
+          "Number": 49,
+          "EndPercent": 31.3787727
+        },
+        {
+          "Number": 50,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 51,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 52,
+          "EndPercent": 91.41308
+        },
+        {
+          "Number": 53,
+          "EndPercent": 3.063832
+        },
+        {
+          "Number": 54,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 55,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 56,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 57,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 58,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 59,
+          "EndPercent": 19.72884
+        },
+        {
+          "Number": 60,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 61,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 62,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 63,
+          "EndPercent": 37.10767
+        },
+        {
+          "Number": 64,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 65,
+          "EndPercent": 28.8712559
+        },
+        {
+          "Number": 66,
+          "EndPercent": 12.1238852
+        },
+        {
+          "Number": 67,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 68,
+          "EndPercent": 22.2683983
+        },
+        {
+          "Number": 69,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 70,
+          "EndPercent": 10.2157831
+        },
+        {
+          "Number": 71,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 72,
+          "EndPercent": 36.4487572
+        },
+        {
+          "Number": 73,
+          "EndPercent": 28.9124374
+        },
+        {
+          "Number": 74,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 75,
+          "EndPercent": 14.6497173
+        },
+        {
+          "Number": 76,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 77,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 78,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 79,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 80,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 81,
+          "EndPercent": 33.9915581
+        },
+        {
+          "Number": 82,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 83,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 84,
+          "EndPercent": 31.4245434
+        },
+        {
+          "Number": 85,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 86,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 87,
+          "EndPercent": 31.5069065
+        },
+        {
+          "Number": 88,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 89,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 90,
+          "EndPercent": 24.7942314
+        },
+        {
+          "Number": 91,
+          "EndPercent": 24.917778
+        },
+        {
+          "Number": 92,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 93,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 94,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 95,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 96,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 97,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 98,
+          "EndPercent": 34.3621979
+        },
+        {
+          "Number": 99,
+          "EndPercent": 44.16353
+        },
+        {
+          "Number": 100,
+          "EndPercent": 33.8131027
+        },
+        {
+          "Number": 101,
+          "EndPercent": 28.9673462
+        },
+        {
+          "Number": 102,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 103,
+          "EndPercent": 33.9641037
+        },
+        {
+          "Number": 104,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 105,
+          "EndPercent": 28.9124374
+        },
+        {
+          "Number": 106,
+          "EndPercent": 58.8380661
+        },
+        {
+          "Number": 107,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 108,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 109,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 110,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 111,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 112,
+          "EndPercent": 44.1909828
+        },
+        {
+          "Number": 113,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 114,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 115,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 116,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 117,
+          "EndPercent": 31.3833618
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:35:33.5146883+02:00",
+      "Duration": "00:00:14.8971325",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 1,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 2,
+          "EndPercent": 57.2319679
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:42:05.2814767+02:00",
+      "Duration": "00:06:54.2476410",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 0,
+          "EndPercent": 94.9272842
+        },
+        {
+          "Number": 1,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 2,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 3,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 4,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 5,
+          "EndPercent": 28.89871
+        },
+        {
+          "Number": 6,
+          "EndPercent": 38.645134
+        },
+        {
+          "Number": 7,
+          "EndPercent": 28.8575287
+        },
+        {
+          "Number": 8,
+          "EndPercent": 22.2683983
+        },
+        {
+          "Number": 9,
+          "EndPercent": 34.911293
+        },
+        {
+          "Number": 10,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 11,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 12,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 13,
+          "EndPercent": 14.6497173
+        },
+        {
+          "Number": 14,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 15,
+          "EndPercent": 34.911293
+        },
+        {
+          "Number": 16,
+          "EndPercent": 5.424937
+        },
+        {
+          "Number": 17,
+          "EndPercent": 36.7095757
+        },
+        {
+          "Number": 18,
+          "EndPercent": 34.4171066
+        },
+        {
+          "Number": 19,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 20,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 21,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 22,
+          "EndPercent": 12.1787939
+        },
+        {
+          "Number": 23,
+          "EndPercent": 34.4171066
+        },
+        {
+          "Number": 24,
+          "EndPercent": 11.7074766
+        },
+        {
+          "Number": 25,
+          "EndPercent": 33.9641037
+        },
+        {
+          "Number": 26,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 27,
+          "EndPercent": 9.584325
+        },
+        {
+          "Number": 28,
+          "EndPercent": 35.18584
+        },
+        {
+          "Number": 29,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 30,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 31,
+          "EndPercent": 31.4519978
+        },
+        {
+          "Number": 32,
+          "EndPercent": 11.6983366
+        },
+        {
+          "Number": 33,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 34,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 35,
+          "EndPercent": 31.4245434
+        },
+        {
+          "Number": 36,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 37,
+          "EndPercent": 31.4519978
+        },
+        {
+          "Number": 38,
+          "EndPercent": 31.4108162
+        },
+        {
+          "Number": 39,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 40,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 41,
+          "EndPercent": 38.9883156
+        },
+        {
+          "Number": 42,
+          "EndPercent": 12.0689754
+        },
+        {
+          "Number": 43,
+          "EndPercent": 92.89563
+        },
+        {
+          "Number": 44,
+          "EndPercent": 36.4899368
+        },
+        {
+          "Number": 45,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 46,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 47,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 48,
+          "EndPercent": 24.8079586
+        },
+        {
+          "Number": 49,
+          "EndPercent": 31.5618172
+        },
+        {
+          "Number": 50,
+          "EndPercent": 11.6983366
+        },
+        {
+          "Number": 51,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 52,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 53,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 54,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 55,
+          "EndPercent": 28.8712559
+        },
+        {
+          "Number": 56,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 57,
+          "EndPercent": 28.8849831
+        },
+        {
+          "Number": 58,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 59,
+          "EndPercent": 31.4245434
+        },
+        {
+          "Number": 60,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 61,
+          "EndPercent": 24.7942314
+        },
+        {
+          "Number": 62,
+          "EndPercent": 100.0
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:54:00.4640838+02:00",
+      "Duration": "00:01:03.4202397",
+      "StartPercent": 0.0,
+      "Attempts": [
+        {
+          "Number": 2,
+          "EndPercent": 7.23694754
+        },
+        {
+          "Number": 3,
+          "EndPercent": 28.8438015
+        },
+        {
+          "Number": 4,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 5,
+          "EndPercent": 12.2474308
+        },
+        {
+          "Number": 6,
+          "EndPercent": 31.43827
+        },
+        {
+          "Number": 7,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 8,
+          "EndPercent": 28.9398918
+        },
+        {
+          "Number": 9,
+          "EndPercent": 28.9398918
+        },
+        {
+          "Number": 10,
+          "EndPercent": 31.4794521
+        },
+        {
+          "Number": 11,
+          "EndPercent": 35.13093
+        },
+        {
+          "Number": 12,
+          "EndPercent": 100.0
+        }
+      ]
+    }
+  ],
+  "PracticeSessions": [
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:19:50.2059409+02:00",
+      "Duration": "00:01:47.2741260",
+      "Attempts": [
+        {
+          "Number": 2,
+          "StartPercent": 0.0,
+          "EndPercent": 31.4657249
+        },
+        {
+          "Number": 3,
+          "StartPercent": 0.0,
+          "EndPercent": 28.939888
+        },
+        {
+          "Number": 4,
+          "StartPercent": 25.2472343,
+          "EndPercent": 31.3833618
+        },
+        {
+          "Number": 5,
+          "StartPercent": 25.2472343,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 6,
+          "StartPercent": 25.2472343,
+          "EndPercent": 28.9261646
+        },
+        {
+          "Number": 7,
+          "StartPercent": 0.0,
+          "EndPercent": 33.9091949
+        },
+        {
+          "Number": 8,
+          "StartPercent": 22.6115837,
+          "EndPercent": 44.09489
+        },
+        {
+          "Number": 9,
+          "StartPercent": 42.982975,
+          "EndPercent": 54.8434067
+        },
+        {
+          "Number": 10,
+          "StartPercent": 52.4823036,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 11,
+          "StartPercent": 59.7852554,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 12,
+          "StartPercent": 66.15475,
+          "EndPercent": 69.20222
+        },
+        {
+          "Number": 13,
+          "StartPercent": 67.3627548,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 14,
+          "StartPercent": 68.57076,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 15,
+          "StartPercent": 68.57076,
+          "EndPercent": 74.6794357
+        },
+        {
+          "Number": 16,
+          "StartPercent": 70.05332,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 17,
+          "StartPercent": 70.05332,
+          "EndPercent": 74.81671
+        },
+        {
+          "Number": 18,
+          "StartPercent": 70.05332,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 19,
+          "StartPercent": 70.05332,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 20,
+          "StartPercent": 75.87372,
+          "EndPercent": 81.5705643
+        },
+        {
+          "Number": 21,
+          "StartPercent": 75.87372,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 22,
+          "StartPercent": 75.87372,
+          "EndPercent": 92.95055
+        },
+        {
+          "Number": 23,
+          "StartPercent": 75.87372,
+          "EndPercent": 92.89563
+        },
+        {
+          "Number": 24,
+          "StartPercent": 85.81232,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 25,
+          "StartPercent": 80.10174,
+          "EndPercent": 82.86094
+        },
+        {
+          "Number": 26,
+          "StartPercent": 75.87372,
+          "EndPercent": 81.5705643
+        },
+        {
+          "Number": 27,
+          "StartPercent": 75.87372,
+          "EndPercent": 77.2739
+        },
+        {
+          "Number": 28,
+          "StartPercent": 75.87372,
+          "EndPercent": 81.5705643
+        },
+        {
+          "Number": 29,
+          "StartPercent": 75.87372,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 30,
+          "StartPercent": 85.31814,
+          "EndPercent": 92.92309
+        },
+        {
+          "Number": 31,
+          "StartPercent": 85.31814,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 32,
+          "StartPercent": 85.31814,
+          "EndPercent": 87.89888
+        },
+        {
+          "Number": 33,
+          "StartPercent": 85.31814,
+          "EndPercent": 89.94425
+        },
+        {
+          "Number": 34,
+          "StartPercent": 85.31814,
+          "EndPercent": 88.6813354
+        },
+        {
+          "Number": 35,
+          "StartPercent": 85.31814,
+          "EndPercent": 88.18715
+        },
+        {
+          "Number": 36,
+          "StartPercent": 85.31814,
+          "EndPercent": 92.95055
+        },
+        {
+          "Number": 37,
+          "StartPercent": 75.87372,
+          "EndPercent": 77.09545
+        },
+        {
+          "Number": 38,
+          "StartPercent": 71.26133,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 39,
+          "StartPercent": 71.26133,
+          "EndPercent": 74.6794357
+        },
+        {
+          "Number": 40,
+          "StartPercent": 71.26133,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 41,
+          "StartPercent": 75.59917,
+          "EndPercent": 92.95055
+        },
+        {
+          "Number": 42,
+          "StartPercent": 75.59917,
+          "EndPercent": 83.080574
+        },
+        {
+          "Number": 43,
+          "StartPercent": 80.21156,
+          "EndPercent": 88.29697
+        },
+        {
+          "Number": 44,
+          "StartPercent": 86.1966858,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 45,
+          "StartPercent": 86.1966858,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 46,
+          "StartPercent": 86.1966858,
+          "EndPercent": 100.0
+        },
+        {
+          "Number": 47,
+          "StartPercent": 88.0087,
+          "EndPercent": 92.81327
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:29:01.7614978+02:00",
+      "Duration": "00:06:31.2151924",
+      "Attempts": [
+        {
+          "Number": 118,
+          "StartPercent": 0.0,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 119,
+          "StartPercent": 44.46553,
+          "EndPercent": 49.6681976
+        },
+        {
+          "Number": 120,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 121,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 122,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 123,
+          "StartPercent": 59.4558,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 124,
+          "StartPercent": 59.4558,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 125,
+          "StartPercent": 59.4558,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 126,
+          "StartPercent": 59.4558,
+          "EndPercent": 78.2622757
+        },
+        {
+          "Number": 127,
+          "StartPercent": 59.4558,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 128,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 129,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 130,
+          "StartPercent": 44.46553,
+          "EndPercent": 74.6794357
+        },
+        {
+          "Number": 131,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 132,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 133,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 134,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 135,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 136,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.41252
+        },
+        {
+          "Number": 137,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 138,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 139,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 140,
+          "StartPercent": 44.46553,
+          "EndPercent": 52.5234871
+        },
+        {
+          "Number": 141,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 142,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 143,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 144,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 145,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 146,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 147,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 148,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 149,
+          "StartPercent": 44.46553,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 150,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.41252
+        },
+        {
+          "Number": 151,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.4948845
+        },
+        {
+          "Number": 152,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 153,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 154,
+          "StartPercent": 44.46553,
+          "EndPercent": 86.26532
+        },
+        {
+          "Number": 155,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.9120445
+        },
+        {
+          "Number": 156,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.8434067
+        },
+        {
+          "Number": 157,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.604702
+        },
+        {
+          "Number": 158,
+          "StartPercent": 55.2826843,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 159,
+          "StartPercent": 55.2826843,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 160,
+          "StartPercent": 55.2826843,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 161,
+          "StartPercent": 55.2826843,
+          "EndPercent": 59.7303467
+        },
+        {
+          "Number": 162,
+          "StartPercent": 55.2826843,
+          "EndPercent": 58.2752457
+        },
+        {
+          "Number": 163,
+          "StartPercent": 55.2826843,
+          "EndPercent": 58.4948845
+        },
+        {
+          "Number": 164,
+          "StartPercent": 55.2826843,
+          "EndPercent": 59.7303467
+        },
+        {
+          "Number": 165,
+          "StartPercent": 58.35761,
+          "EndPercent": 58.6870651
+        },
+        {
+          "Number": 166,
+          "StartPercent": 58.6870651,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 167,
+          "StartPercent": 60.16962,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 168,
+          "StartPercent": 58.6870651,
+          "EndPercent": 73.97934
+        },
+        {
+          "Number": 169,
+          "StartPercent": 58.6870651,
+          "EndPercent": 76.62872
+        },
+        {
+          "Number": 170,
+          "StartPercent": 58.6870651,
+          "EndPercent": 76.9856339
+        },
+        {
+          "Number": 171,
+          "StartPercent": 58.6870651,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 172,
+          "StartPercent": 58.6870651,
+          "EndPercent": 80.48611
+        },
+        {
+          "Number": 173,
+          "StartPercent": 58.6870651,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 174,
+          "StartPercent": 58.6870651,
+          "EndPercent": 79.67619
+        },
+        {
+          "Number": 175,
+          "StartPercent": 58.6870651,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 176,
+          "StartPercent": 58.6870651,
+          "EndPercent": 92.8819046
+        },
+        {
+          "Number": 177,
+          "StartPercent": 58.6870651,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 178,
+          "StartPercent": 58.6870651,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 179,
+          "StartPercent": 58.6870651,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 180,
+          "StartPercent": 58.6870651,
+          "EndPercent": 80.52729
+        },
+        {
+          "Number": 181,
+          "StartPercent": 58.6870651,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 182,
+          "StartPercent": 58.6870651,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 183,
+          "StartPercent": 58.6870651,
+          "EndPercent": 81.06265
+        },
+        {
+          "Number": 184,
+          "StartPercent": 58.6870651,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 185,
+          "StartPercent": 58.6870651,
+          "EndPercent": 74.96771
+        },
+        {
+          "Number": 186,
+          "StartPercent": 58.6870651,
+          "EndPercent": 83.0256653
+        },
+        {
+          "Number": 187,
+          "StartPercent": 58.6870651,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 188,
+          "StartPercent": 58.6870651,
+          "EndPercent": 76.27181
+        },
+        {
+          "Number": 189,
+          "StartPercent": 58.6870651,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 190,
+          "StartPercent": 58.6870651,
+          "EndPercent": 100.0
+        },
+        {
+          "Number": 191,
+          "StartPercent": 58.6870651,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 192,
+          "StartPercent": 57.6437874,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 193,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 194,
+          "StartPercent": 44.46553,
+          "EndPercent": 52.38621
+        },
+        {
+          "Number": 195,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 196,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 197,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.755703
+        },
+        {
+          "Number": 198,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 199,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 200,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 201,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 202,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 203,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 204,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 205,
+          "StartPercent": 44.46553,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 206,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 207,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 208,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 209,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 210,
+          "StartPercent": 44.46553,
+          "EndPercent": 52.44112
+        },
+        {
+          "Number": 211,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 212,
+          "StartPercent": 55.44741,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 213,
+          "StartPercent": 55.44741,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 214,
+          "StartPercent": 55.44741,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 215,
+          "StartPercent": 55.44741,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 216,
+          "StartPercent": 56.9848747,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 217,
+          "StartPercent": 59.6754379,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 218,
+          "StartPercent": 59.6754379,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 219,
+          "StartPercent": 59.6754379,
+          "EndPercent": 82.21575
+        },
+        {
+          "Number": 220,
+          "StartPercent": 59.6754379,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 221,
+          "StartPercent": 59.6754379,
+          "EndPercent": 80.41747
+        },
+        {
+          "Number": 222,
+          "StartPercent": 59.6754379,
+          "EndPercent": 81.5705643
+        },
+        {
+          "Number": 223,
+          "StartPercent": 59.6754379,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 224,
+          "StartPercent": 59.6754379,
+          "EndPercent": 93.38982
+        },
+        {
+          "Number": 225,
+          "StartPercent": 59.6754379,
+          "EndPercent": 75.1461639
+        },
+        {
+          "Number": 226,
+          "StartPercent": 55.44741,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 227,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 228,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 229,
+          "StartPercent": 44.46553,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 230,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.72825
+        },
+        {
+          "Number": 231,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 232,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.5232849
+        },
+        {
+          "Number": 233,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.0639954
+        },
+        {
+          "Number": 234,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 235,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 236,
+          "StartPercent": 44.46553,
+          "EndPercent": 55.03559
+        },
+        {
+          "Number": 237,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 238,
+          "StartPercent": 44.46553,
+          "EndPercent": 52.3724861
+        },
+        {
+          "Number": 239,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 240,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 241,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 242,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 243,
+          "StartPercent": 60.22453,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 244,
+          "StartPercent": 60.22453,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 245,
+          "StartPercent": 60.22453,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 246,
+          "StartPercent": 86.36141,
+          "EndPercent": 100.0
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:35:48.6168235+02:00",
+      "Duration": "00:06:16.5256870",
+      "Attempts": [
+        {
+          "Number": 3,
+          "StartPercent": 0.0,
+          "EndPercent": 54.9669533
+        },
+        {
+          "Number": 4,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 5,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 6,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 7,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 8,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 9,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 10,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 11,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 12,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 13,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 14,
+          "StartPercent": 44.46553,
+          "EndPercent": 49.6681976
+        },
+        {
+          "Number": 15,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 16,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 17,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 18,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.4811554
+        },
+        {
+          "Number": 19,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 20,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 21,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 22,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.8819046
+        },
+        {
+          "Number": 23,
+          "StartPercent": 44.46553,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 24,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.1738129
+        },
+        {
+          "Number": 25,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 26,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 27,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 28,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 29,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.1738129
+        },
+        {
+          "Number": 30,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 31,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 32,
+          "StartPercent": 44.46553,
+          "EndPercent": 52.4273949
+        },
+        {
+          "Number": 33,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 34,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 35,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 36,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 37,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 38,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 39,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 40,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.1242447
+        },
+        {
+          "Number": 41,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 42,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.0090866
+        },
+        {
+          "Number": 43,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 44,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 45,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 46,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 47,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 48,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 49,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 50,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 51,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 52,
+          "StartPercent": 44.46553,
+          "EndPercent": 49.6681976
+        },
+        {
+          "Number": 53,
+          "StartPercent": 44.46553,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 54,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 55,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 56,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.97
+        },
+        {
+          "Number": 57,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 58,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 59,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 60,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 61,
+          "StartPercent": 44.46553,
+          "EndPercent": 62.1738129
+        },
+        {
+          "Number": 62,
+          "StartPercent": 44.46553,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 63,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 64,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 65,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 66,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 67,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 68,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 69,
+          "StartPercent": 44.46553,
+          "EndPercent": 71.59078
+        },
+        {
+          "Number": 70,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 71,
+          "StartPercent": 44.46553,
+          "EndPercent": 74.95399
+        },
+        {
+          "Number": 72,
+          "StartPercent": 44.46553,
+          "EndPercent": 49.8878326
+        },
+        {
+          "Number": 73,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 74,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 75,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 76,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 77,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.73359
+        },
+        {
+          "Number": 78,
+          "StartPercent": 44.46553,
+          "EndPercent": 69.0512161
+        },
+        {
+          "Number": 79,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 80,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 81,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 82,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 83,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 84,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.26152
+        },
+        {
+          "Number": 85,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.81327
+        },
+        {
+          "Number": 86,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 87,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 88,
+          "StartPercent": 44.46553,
+          "EndPercent": 83.45122
+        },
+        {
+          "Number": 89,
+          "StartPercent": 44.46553,
+          "EndPercent": 49.76429
+        },
+        {
+          "Number": 90,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 91,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.04188
+        },
+        {
+          "Number": 92,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 93,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.95055
+        },
+        {
+          "Number": 94,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.95055
+        },
+        {
+          "Number": 95,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 96,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 97,
+          "StartPercent": 44.46553,
+          "EndPercent": 66.52538
+        },
+        {
+          "Number": 98,
+          "StartPercent": 44.46553,
+          "EndPercent": 93.45846
+        },
+        {
+          "Number": 99,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 100,
+          "StartPercent": 44.46553,
+          "EndPercent": 63.8485527
+        },
+        {
+          "Number": 101,
+          "StartPercent": 44.46553,
+          "EndPercent": 93.38982
+        },
+        {
+          "Number": 102,
+          "StartPercent": 44.46553,
+          "EndPercent": 54.9120445
+        },
+        {
+          "Number": 103,
+          "StartPercent": 44.46553,
+          "EndPercent": 58.0006981
+        },
+        {
+          "Number": 104,
+          "StartPercent": 44.46553,
+          "EndPercent": 61.9679031
+        },
+        {
+          "Number": 105,
+          "StartPercent": 44.46553,
+          "EndPercent": 57.2319679
+        },
+        {
+          "Number": 106,
+          "StartPercent": 44.46553,
+          "EndPercent": 92.68972
+        },
+        {
+          "Number": 107,
+          "StartPercent": 44.46553,
+          "EndPercent": 65.50956
+        },
+        {
+          "Number": 108,
+          "StartPercent": 44.46553,
+          "EndPercent": 100.0
+        }
+      ]
+    },
+    {
+      "Level": {
+        "ID": 89790730,
+        "IsOnline": true,
+        "OriginalID": 0,
+        "IsOriginal": true,
+        "Name": "Simon Chamber",
+        "Revision": 0,
+        "PhysicalLength": 5918.84,
+        "IsCustomMusic": true,
+        "MusicID": 970930,
+        "OfficialMusicID": 0,
+        "MusicOffset": 1.5
+      },
+      "IsCopyRun": false,
+      "StartTime": "2023-04-11T20:53:58.5980851+02:00",
+      "Duration": "00:00:01.6359998",
+      "Attempts": [
+        {
+          "Number": 2,
+          "StartPercent": 0.0,
+          "EndPercent": 7.23694754
+        }
+      ]
+    }
+  ]
+}
