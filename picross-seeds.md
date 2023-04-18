@@ -1,6 +1,6 @@
 # Good picross seeds
 ## Website
-http://liouh.com/picross2/
+[https://liouh.com/picross2](https://liouh.com/picross2)
 ## Seeds
 1677575069838
 
