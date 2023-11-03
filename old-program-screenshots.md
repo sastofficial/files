@@ -13,3 +13,6 @@
 ### Youtube
 - [Video Player in 2013](https://i.imgur.com/F2TxAg9.jpeg)
 - [Video Player without controls in 2016](https://external-preview.redd.it/t4DR2d4__xwSlUvgdcZbIFoiV7sMjT6IvAluG_p1KBs.jpg?width=960&crop=smart&auto=webp&s=1604092981411296c5aa05e4b8b4ee20b83b4ccc)
+
+### Twitter/X
+- [Tweet + comments viewed on an iPhone in 2017](https://pbs.twimg.com/media/C8sk8QlUwAAR3qI?format=jpg&name=medium)
