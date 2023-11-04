@@ -6,6 +6,6 @@
 
 [chamber 18](testchmb_a_14.dem) 1:45.270
 
-[chamber 19](testchmb_a_10.dem) 1:49.215
+[chamber 19](testchmb_a_15.dem) 1:49.215
 
 [escape 00](escape_00.dem) (fail)
