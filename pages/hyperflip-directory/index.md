@@ -1,11 +1,11 @@
 # Hyperflip Directory
 
-- [Leroy - Dariacore](https://soundcloud.com/c0ncernn/sets/dariacore)
-- [Leroy - Dariacore 2: Enter Here, Hell to the Left](https://soundcloud.com/c0ncernn/sets/dariacore-2-enter-here-hell-to)
-- [Leroy - Dariacore 3... At least I think that's what it's called?](https://soundcloud.com/c0ncernn/sets/d-core)
-- [Leroy - Grave Robbing](https://soundcloud.com/c0ncernn/sets/nonstop)
-- [Various Artists - daria vs. core: it's giving charity!](https://soundcloud.com/spring-on-the-avenue/sets/daria-vs-core-1)
-- [Jane Remover - back off!!!](https://open.spotify.com/track/1I9Jd9Enr6PJRBuMaYC8fE?si=6f872151809244fe)
+- [<img src="assets/sc.svg" alt="Soundcloud" width="15" height="auto">](https://soundcloud.com/c0ncernn/sets/dariacore) [<img src="assets/yt.svg" alt="YouTube" width="15" height="auto">](https://youtu.be/Lojx82Etjl0) Leroy - Dariacore
+- [<img src="assets/sc.svg" alt="Soundcloud" width="15" height="auto">](https://soundcloud.com/c0ncernn/sets/dariacore-2-enter-here-hell-to) Leroy - Dariacore 2: Enter Here, Hell to the Left 
+- [<img src="assets/sc.svg" alt="Soundcloud" width="15" height="auto">](https://soundcloud.com/c0ncernn/sets/d-core) Leroy - Dariacore 3... At least I think that's what it's called? 
+- [<img src="assets/sc.svg" alt="Soundcloud" width="15" height="auto">](https://soundcloud.com/c0ncernn/sets/nonstop) [<img src="assets/yt.svg" alt="YouTube" width="15" height="auto">](https://youtu.be/YT1k1xdGaEY) Leroy - Grave Robbing 
+- [<img src="assets/sc.svg" alt="Soundcloud" width="15" height="auto">](https://soundcloud.com/spring-on-the-avenue/sets/daria-vs-core-1) Various Artists - daria vs. core: it's giving charity!
+- [<img src="assets/spotify.svg" alt="Spotify" width="15" height="auto">](https://open.spotify.com/track/1I9Jd9Enr6PJRBuMaYC8fE?si=6f872151809244fe) [<img src="assets/sc.svg" alt="Soundcloud" width="15" height="auto">](https://soundcloud.com/artbyform/dltzk-kmoe-juno-back-off) [<img src="assets/bc.svg" alt="Bandcamp" width="15" height="auto">](https://artbyform.bandcamp.com/track/back-off) [<img src="assets/yt.svg" alt="YouTube" width="15" height="auto">](https://www.youtube.com/watch?v=dIayVv04xjM) Jane Remover, kmoe & juno - back off!!!
 - [kmoe b2b Jane Remover at FRIENDFEST](https://www.youtube.com/watch?v=7qBbrIXhlUI)
 - [xaev - berdlycore chapter 1](https://open.spotify.com/album/3Pe2pNoDhvz8mzvE9G8pRt?si=oc29ZqVuRoKifXL7uTQoJA)
 - [xaev - berdlycore chapter 2](https://open.spotify.com/album/4z4I2zzdjc5zLLDqXpRYSW?si=YTRxB7JQQ8S5BhQTYOJudQ)
