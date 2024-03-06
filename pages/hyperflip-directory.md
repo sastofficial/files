@@ -6,6 +6,7 @@
 - [Leroy - Grave Robbing](https://soundcloud.com/c0ncernn/sets/nonstop)
 - [Various Artists - daria vs. core: it's giving charity!](https://soundcloud.com/spring-on-the-avenue/sets/daria-vs-core-1)
 - [Jane Remover - back off!!!](https://open.spotify.com/track/1I9Jd9Enr6PJRBuMaYC8fE?si=6f872151809244fe)
+- [kmoe b2b Jane Remover at FRIENDFEST](https://www.youtube.com/watch?v=7qBbrIXhlUI)
 - [xaev - berdlycore chapter 1](https://open.spotify.com/album/3Pe2pNoDhvz8mzvE9G8pRt?si=oc29ZqVuRoKifXL7uTQoJA)
 - [xaev - berdlycore chapter 2](https://open.spotify.com/album/4z4I2zzdjc5zLLDqXpRYSW?si=YTRxB7JQQ8S5BhQTYOJudQ)
 - [xaev - berdlycore chapter zero](https://open.spotify.com/album/5sgmbSnUSWBycr9SQDoMdE?si=DGyiBAPlQPeZxwEyetoN0A)
