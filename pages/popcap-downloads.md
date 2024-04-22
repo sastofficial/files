@@ -29,7 +29,7 @@
 
 [Chuzzle](http://static-www.ec.popcap.com/binaries/popcap_downloads/ChuzzleSetup.exe)
 
-[Chuzzle Christmas Edition](https://downloadcdn.shockwave.com/pub/chuzzlechristmas/InstallChuzzleChristmasEdition.exe)
+[Chuzzle: Christmas Edition](https://downloadcdn.shockwave.com/pub/chuzzlechristmas/InstallChuzzleChristmasEdition.exe)
 
 [Dynomite!](http://static-www.ec.popcap.com/binaries/popcap_downloads/DynomiteSetup.exe)
 
