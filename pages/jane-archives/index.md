@@ -1,6 +1,42 @@
 # Jane Remover Archives
 This page is strictly for archival purposes.
 ## Tweets
+["Jane Remover — Royal Blue Walls — out now" - June 27th 2022](img/tweet%202022-06-27.png) - [(Image 1)](img/blue1.jpg) - [(Image 2)](img/blue2.jpg)
+
+["going to have a loooong talk with whoever designed me" - July 27th 2022](https://web.archive.org/web/20220910073354/https://nitter.net/janeremover/status/1552174914798592000)
+
+["(in a store) God this is so embarrassing" - August 23rd 2022](img/tweet%202022-08-23.png)
+
+["Harold falls down the cliff. He survives his crash but winds up fatally hit by a smart car, sending him to hell." - August 25th 2022](img/tweet%202022-08-25.png)
+
+["jumpscared by the onions in the taco bell bean burrito" "a strange... Sweetness" - August 26th 2022](img/thread%202022-08-26.png)
+
+["The Christian-Girl-Autumn-ification of Jane Remover" - August 27th 2022](img/tweet%202022-08-27.png)
+
+["i never think my scoliosis is that bad until it shows up in photos" "ive gotten it checked out before but the doctor and i mutually stopped caring 🤷‍♀️ We move" - August 28th 2022](img/thread%202022-08-28.png)
+
+["the m&m lady is on TV" - September 1st 2022](img/tweet%202022-09-01.png)
+
+["a convenience store is one of the few judgement-free places left on earth" - September 1st 2022](img/tweet%202022-09-01%20(2).png)
+
+["wake up babe your music got put on another playlist with some unidentifiable anime girl on the cover" - September 1st 2022](img/tweet%202022-09-01%20(3).png)
+
+["TikTok is crazy because what exactly is a 'Girl, Interrupted' -themed playlist" - September 4th 2022](img/tweet%202022-09-04.png)
+
+["Twitter Circles are a good test audience for a main-worthy tweet" - September 4th 2022](img/tweet%202022-09-04%20(2).png)
+
+["cringe does not apply to nice people it cancels out. like math" - September 5th 2022](img/tweet%202022-09-05.png)
+
+["sigma male bullshit aside its probably not my cup of tea" (Reply to an unknown tweet) - September 5th 2022](img/reply%202022-09-05.png)
+
+["Ok gonna watch the movie and then i will come back with an actual opinion" - September 5th 2022](img/tweet%202022-09-05%20(2).png)
+
+["...Still didn't like it. But retracting my previous statement" "it is not a shit movie. it is in fact a good movie. but that does not mean i liked it" - Sepetmber 5th 2022](img/thread%202022-09-05.png)
+
+["rewired my brain to like bro country" - September 6th 2022](img/tweet%202022-09-06.png)
+
+
+
 ["Jane Remover 2nd Album "Census Designated" October 20 1st Single 'Lips' is out now everywhere 💌" - August 23rd 2023](https://web.archive.org/web/20231021003453/https://twitter.com/janeremover/status/1694197835384672578)
 
 ["🫤" (Reply to a tweet saying "kendrick lived in the frailty house?") - July 9th 2024](img/reply%202024-07-09.jpg)
@@ -56,6 +92,8 @@ This page is strictly for archival purposes.
 ["I make some good ass music  at the price  of feeling like a crazy  person" - February 4th 2025](http://archive.ph/52MGK)
 
 ## Twitter Account
+[September 9th 2022](https://web.archive.org/web/20220909001847/https://nitter.net/janeremover)
+
 [August 16th 2024](https://archive.ph/6Ka39)
 
 [September 21st 2024](https://archive.ph/6ZMoj)
