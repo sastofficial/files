@@ -1,7 +1,11 @@
 # Jane Remover Archives
 This page is strictly for archival purposes.
 ## Tweets
+["Jane Remover 2nd Album "Census Designated" October 20 1st Single 'Lips' is out now everywhere 💌" - August 23rd 2023](https://web.archive.org/web/20231021003453/https://twitter.com/janeremover/status/1694197835384672578)
+
 ["🫤" (Reply to a tweet saying "kendrick lived in the frailty house?") - July 9th 2024](img/reply%202024-07-09.jpg)
+
+["Come see me open for @jpegmafia this summer poster 1 made by @digiyams tix in pic https://t.co/mLR1mT1CxN" - July 15th 2024](https://web.archive.org/web/20240715151634/https://twitter.com/janeremover/status/1812868867305169137)
 
 ["listen to me on apple music" - August 21st 2024](img/tweet%202024-08-21.PNG)
 
