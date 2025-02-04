@@ -35,7 +35,9 @@ This page is strictly for archival purposes.
 
 ["rewired my brain to like bro country" - September 6th 2022](img/tweet%202022-09-06.png)
 
+["bro tools" - September 6th 2022](img/tweet%202022-09-06%20(2).png)
 
+["nmixx world domination" - September 8th 2022](img/tweet%202022-09-08.png)
 
 ["Jane Remover 2nd Album "Census Designated" October 20 1st Single 'Lips' is out now everywhere 💌" - August 23rd 2023](https://web.archive.org/web/20231021003453/https://twitter.com/janeremover/status/1694197835384672578)
 
