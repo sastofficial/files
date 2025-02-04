@@ -1,7 +1,17 @@
 # Jane Remover Archives
 This page is strictly for archival purposes.
 ## Tweets
+["🫤" (Reply to a tweet saying "kendrick lived in the frailty house?") - July 9th 2024](img/reply%202024-07-09.jpg)
+
+["listen to me on apple music" - August 21st 2024](img/tweet%202024-08-21.PNG)
+
+["Magic/teleport was part of a whole album that i made and then scrapped but i wanted to give u those 2 songs instead of nothing" - September 12th 2024](img/tweet%202024-09-12.JPG) - [(With Reply)](img/reply%202024-09-12.JPG)
+
+["Every time million dollar baby is on the radio Omg how does this song get worse every time" - October 26th 2024](img/tweet%202024-10-26.PNG)
+
 [First Revengeseekerz Era Tweet - November 1st 2024](https://archive.ph/sPlv5)
+
+["track 1 ❤" - November 7th 2024](img/tweet%202024-11-07.PNG)
 
 ["i didnt forget" - November 24th 2024](https://archive.ph/D1E2s)
 
@@ -32,6 +42,10 @@ This page is strictly for archival purposes.
 [Homeswitcher Spotify Link - January 27th 2025](https://archive.ph/W5dVU) - [(Reply)](https://archive.ph/yLv8v) - [(Both)](img/thread%202025-01-27.png)
 
 ["come to my show" - January 28th 2025](https://archive.ph/cgSUM)
+
+[Pokemon Screenshot - January 31st 2025](img/tweet%202025-01-31.PNG)
+
+["music  fucking bruising my ears" - January 31st 2025](img/tweet%202025-01-31%20(2).PNG)
 
 ["stop" - February 3rd 2025](https://archive.ph/oFTXy)
 
